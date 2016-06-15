@@ -1,4 +1,4 @@
-#Reproducible Research - Project 1
+#Reproducible Research -- Project 1
 
 ##Loading and Processing the data
 ```{r, echo = TRUE}
